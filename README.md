@@ -34,5 +34,5 @@ Um dos aspectos que me preocupei foi em diminuir ao máximo os códigos. As falh
 Opiniões e  correções são de grande valor, como termômetro para o meu desenvolvimento.  
 
 
-repositório: https://lauradela.github.io/challengesONE_t8_proj1/
+repositório: https://github.com/lauradela/challengesONE_t8_proj1
 
