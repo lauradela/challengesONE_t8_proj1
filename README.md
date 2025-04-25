@@ -14,16 +14,21 @@ Categorias mais populares
 Média das avaliações dos clientes
 Produtos mais e menos vendidos
 Custo médio do frete
- 2 . Apresentar pelo menos 3 gráficos distintos 
+2 . Apresentar pelo menos 3 gráficos distintos 
 3 .  1 relatório conclusivo identificando a loja com o pior desempenho
+
+
 Ferramenta e tecnologia aplicada:
 Linguagem: Python
+
 
 Ambientes de desenvolvimento: 
 COLAB, Jupyter Notebook
 Bibliotecas Python: pandas /numpy /matplotlib / squarify
 
 A parte:
+
+
 Esse é o meu primeiro projeto em programação, e  analogamente em análise de dados. Foi todo desenvolvido baseado nas aulas do Curso ONE 8 - Data Science da ALURA e pesquisas na internet. O projeto é parte obrigatória à formação deste curso..
 Um dos aspectos que me preocupei foi em diminuir ao máximo os códigos. As falhas ficam por conta da minha inexperiência.
 Opiniões e  correções são de grande valor, como termômetro para o meu desenvolvimento.  
